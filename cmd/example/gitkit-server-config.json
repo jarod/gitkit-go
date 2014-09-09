@@ -1,0 +1,8 @@
+{
+  "clientId" : "xxxxxxxxx-xxxxxxxxx.apps.googleusercontent.com",
+  "serviceAccountEmail" : "xxxxxxx-xxxxxxxxxxxxxxxxxx@developer.gserviceaccount.com",
+  "serviceAccountPrivateKeyFile" : "gitkit_go.pem",
+  "widgetUrl" : "http://localhost:4567/gitkit",
+  "cookieName" : "gtoken",
+  "serverApiKey" : "AIza..."
+}
